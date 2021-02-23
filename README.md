@@ -1,2 +1,2 @@
 # JupiterEthan.github.io
-Ke Tan's personal homepage is hosted here.
+Ke Tan's personal website is hosted here.
