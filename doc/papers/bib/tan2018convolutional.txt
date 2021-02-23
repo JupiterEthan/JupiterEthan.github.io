@@ -1,0 +1,7 @@
+@article{tan2018convolutional,
+  title={A Convolutional Recurrent Neural Network for Real-Time Speech Enhancement},
+  author={Tan, Ke and Wang, DeLiang},
+  journal={INTERSPEECH},
+  pages={3229--3233},
+  year={2018}
+}

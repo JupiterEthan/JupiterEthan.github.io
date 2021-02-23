@@ -1,0 +1,7 @@
+@inproceedings{tan2019complex,
+  title={Complex Spectral Mapping with a Convolutional Recurrent Network for Monaural Speech Enhancement},
+  author={Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6865--6869},
+  year={2019}
+}

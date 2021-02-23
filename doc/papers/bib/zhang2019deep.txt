@@ -1,0 +1,7 @@
+@article{zhang2019deep,
+  title={Deep Learning for Joint Acoustic Echo and Noise Cancellation with Nonlinear Distortions},
+  author={Zhang, Hao and Tan, Ke and Wang, DeLiang},
+  journal={INTERSPEECH},
+  pages={4255--4259},
+  year={2019}
+}

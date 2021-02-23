@@ -1,0 +1,6 @@
+@inproceedings{tan2021compressing,
+  title={Compressing Deep Neural Networks for Efficient Speech Enhancement},
+  author={Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  year={2021}
+}

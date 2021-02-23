@@ -1,0 +1,7 @@
+@inproceedings{tan2020improving,
+  title={Improving Robustness of Deep Learning Based Monaural Speech Enhancement Against Processing Artifacts},
+  author={Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={6914--6918},
+  year={2020}
+}

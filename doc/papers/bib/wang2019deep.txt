@@ -1,0 +1,7 @@
+@inproceedings{wang2019deep,
+  title={Deep Learning Based Phase Reconstruction for Speaker Separation: A Trigonometric Perspective},
+  author={Wang, Zhong-Qiu and Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={71--75},
+  year={2019}
+}

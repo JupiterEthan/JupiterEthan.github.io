@@ -1,0 +1,9 @@
+@article{tan2021sagrnn,
+  title={{SAGRNN}: Self-Attentive Gated RNNs for Binaural Speaker Separation with Interaural Cue Preservation},
+  author={Tan, Ke and Xu, Buye and Kumar, Anurag and Nachmani, Eliya and Adi, Yossi},
+  booktitle={IEEE Signal Processing Letters},
+  volume={28},
+  pages={26--30},
+  year={2021},
+  publisher={IEEE}
+}

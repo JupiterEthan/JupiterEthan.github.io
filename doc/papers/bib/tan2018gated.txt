@@ -1,0 +1,7 @@
+@inproceedings{tan2018gated,
+  title={Gated Residual Networks with Dilated Convolutions for Supervised Speech Separation},
+  author={Tan, Ke and Chen, Jitong and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={21--25},
+  year={2018}
+}

@@ -1,0 +1,9 @@
+@article{tan2020learning,
+  title={Learning Complex Spectral Mapping with Gated Convolutional Recurrent Networks for Monaural Speech Enhancement},
+  author={Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
+  volume={28},
+  pages={380--390},
+  year={2020},
+  publisher={IEEE}
+}

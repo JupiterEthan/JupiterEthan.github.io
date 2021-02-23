@@ -1,0 +1,7 @@
+@inproceedings{tan2019real,
+  title={Real-Time Speech Enhancement Using an Efficient Convolutional Recurrent Network for Dual-Microphone Mobile Phones in Close-Talk Scenarios},
+  author={Tan, Ke and Zhang, Xueliang and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={5751--5755},
+  year={2019}
+}
