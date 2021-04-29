@@ -1,7 +1,7 @@
-@article{tan2018two,
-  title={A Two-Stage Approach to Noisy Cochannel Speech Separation with Gated Residual Networks},
+@inproceedings{tan2018two,
+  title={A Two-Stage Approach to Noisy Cochannel Speech Separation with Gated Residual Networks.},
   author={Tan, Ke and Wang, DeLiang},
-  journal={INTERSPEECH},
+  booktitle={INTERSPEECH},
   pages={3484--3488},
   year={2018}
 }
