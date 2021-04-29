@@ -287,6 +287,43 @@ p {
     border-style:none;
 }
 
+#publications p .code {
+    font-weight: 600;
+    color:#FFF;
+	text-decoration:none;
+    background-color:#999999;
+    border-style:none;
+}
+
+#software{
+	margin:2%;
+	padding-top:20px;
+}
+
+#software h2 a {
+    font-weight: 600;
+    color:#000;
+	text-decoration:none;
+}
+
+#software h2 a:hover {
+    font-weight: 600;
+    color:#000;
+	text-decoration:none;
+}
+
+#software ul a{
+    font-weight: 600;
+    text-decoration:none;
+    color: #0066cc;
+}
+
+#software ul a:hover {
+    font-weight: 600;
+	color:#F90;
+	text-decoration:underline;
+}
+
 #presentations{
 	margin:2%;
 	padding-top:20px;
@@ -341,23 +378,6 @@ p {
     font-weight: 600;
 	color:#F90;
 	text-decoration:underline;
-}
-
-#teaching {
-	margin:2%;
-	padding-top:20px;
-}
-
-#teaching h2 a {
-    font-weight: 600;
-    color:#000;
-	text-decoration:none;
-}
-
-#teaching h2 a:hover {
-    font-weight: 600;
-    color:#000;
-	text-decoration:none;
 }
 
 #acknowledgments {
