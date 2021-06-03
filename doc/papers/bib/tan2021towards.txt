@@ -1,0 +1,9 @@
+@article{tan2021towards,
+  title={Towards Model Compression for Deep Learning Based Speech Enhancement},
+  author={Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
+  volume={29},
+  pages={1785--1794},
+  year={2021},
+  publisher={IEEE}
+}
