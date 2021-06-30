@@ -1,7 +1,7 @@
 @article{tan2020audio,
   title={Audio-Visual Speech Separation and Dereverberation with a Two-Stage Multimodal Network},
   author={Tan, Ke and Xu, Yong and Zhang, Shi-Xiong and Yu, Meng and Yu, Dong},
-  booktitle={IEEE Journal of Selected Topics in Signal Processing (JSTSP)},
+  journal={IEEE Journal of Selected Topics in Signal Processing (JSTSP)},
   volume={14},
   pages={542--553},
   year={2020},

@@ -1,7 +1,7 @@
 @inproceedings{wang2019bridging,
   title={Bridging the Gap Between Monaural Speech Enhancement and Recognition with Distortion-Independent Acoustic Modeling},
   author={Wang, Peidong and Tan, Ke and Wang, DeLiang},
-  booktitle={INTERSPEECH},
+  booktitle={Interspeech},
   pages={471--475},
   year={2019}
 }

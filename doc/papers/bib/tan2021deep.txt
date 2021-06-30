@@ -1,7 +1,7 @@
 @article{tan2021deep,
   title={Deep Learning Based Real-Time Speech Enhancement for Dual-Microphone Mobile Phones},
   author={Tan, Ke and Zhang, Xueliang and Wang, DeLiang},
-  booktitle={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
+  journal={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
   volume={29},
   pages={1853--1863},
   year={2021},
