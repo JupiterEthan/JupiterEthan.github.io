@@ -94,25 +94,6 @@ p {
     padding: 0px 0px 30px 0px;
 }
 
-#contact {
-    padding-top: 6pt;
-}
-
-#contact li i {
-    color: #0066cc;
-}
-
-#contact li a {
-	text-decoration:none;
-    color: #0066cc;
-}
-
-#contact li a:hover {
-    text-decoration: none;
-    color: #F90;
-    text-decoration: underline;
-}
-
 #home #photo {
     float: left;
     margin-left: 20px;
@@ -144,19 +125,30 @@ p {
 }
 
 #intro p a {
-    margin-left:0px;
-    margin-top:0px;
-    margin-bottom:0px;
-    text-decoration:none;
-    word-break:keep-all;
-    word-wrap:break-word;
+    margin-left: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-decoration: none;
+    word-break: keep-all;
+    word-wrap: break-word;
     color: #0066cc;
 }
 
 #intro p a:hover {
-    margin:0px;
-    color:#F90;
-    text-decoration:underline;
+    margin: 0px;
+    color: #F90;
+    text-decoration: underline;
+}
+
+#intro p li a {
+    text-decoration:none;
+    color: #0066cc;
+}
+
+#intro p li a:hover {
+    text-decoration: none;
+    color: #F90;
+    text-decoration: underline;
 }
 
 
@@ -190,42 +182,6 @@ p {
 
 #bio p a:hover {
     font-weight: 600;
-    color: #F90;
-    text-decoration: underline;
-}
-
-#manuscripts{
-    margin: 2%;
-    padding-top: 20px;
-}
-
-#manuscripts h2 a {
-    font-weight: 600;
-    color: #000;
-    text-decoration: none;
-}
-
-#manuscripts .abstract{
-    margin: 20px;
-    padding-top: 20px;
-    display: none;
-}
-
-#manuscripts h2 a:hover {
-    font-weight: 600;
-    color: #000;
-    text-decoration: none;
-}
-
-#manuscripts p .demos {
-    font-weight: 600;
-    color: #FFF;
-    text-decoration: none;
-    background-color: #3cc48d;
-    border-style: none;
-}
-
-#manuscripts p a:hover {
     color: #F90;
     text-decoration: underline;
 }
