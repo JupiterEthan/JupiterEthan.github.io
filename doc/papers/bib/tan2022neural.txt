@@ -1,0 +1,9 @@
+@article{tan2022neural,
+  title={Neural Spectrospatial Filtering},
+  author={Tan, Ke and Wang, Zhong-Qiu and Wang, DeLiang},
+  journal={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
+  volume={30},
+  pages={605--621},
+  year={2022},
+  publisher={IEEE}
+}
