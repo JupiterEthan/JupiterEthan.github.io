@@ -1,0 +1,9 @@
+@article{taherian2022multi,
+  title={Multi-Channel Talker-Independent Speaker Separation Through Location-Based Training},
+  author={Taherian, Hassan and Tan, Ke and Wang, DeLiang},
+  journal={IEEE/ACM Transactions on Audio, Speech and Language Processing (TASLP)},
+  volume={30},
+  pages={2791--2800},
+  year={2022},
+  publisher={IEEE}
+}

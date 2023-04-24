@@ -1,0 +1,7 @@
+@inproceedings{taherian2022location,
+  title={Location-Based Training for Multi-Channel Talker-Independent Speaker Separation},
+  author={Taherian, Hassan and Tan, Ke and Wang, DeLiang},
+  booktitle={IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)},
+  pages={696--700},
+  year={2022}
+}
